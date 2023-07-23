@@ -1,4 +1,4 @@
-<div style="background-color: #f2f2f2; padding: 20px;">
+<div style="background-color: #2ab8e8; padding: 20px;">
   
   ## Hi there 👋
 
