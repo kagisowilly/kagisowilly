@@ -7,7 +7,7 @@ I am proficient in a diverse set of languages, frameworks, and databases. Vue.js
 
 
 - 🔭 I’m currently working on FastApi application.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about any JavaScript/Web development related topic
